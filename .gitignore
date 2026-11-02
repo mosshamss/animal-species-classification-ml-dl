@@ -1,0 +1,17 @@
+# Notebook checkpoints and system files
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Dataset files, exports and trained models
+*.h5
+*.keras
+*.weights.h5
+*.npz
+*.npy
+*.zip
+data/raw/
+data/archive.zip
+animals10/
+raw-img/

@@ -1,0 +1,11 @@
+# Recommended: Google Colab with GPU runtime for TensorFlow training
+# Core libraries used by the notebook
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+scikit-learn
+scipy
+tensorflow
+tqdm
