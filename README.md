@@ -74,3 +74,6 @@ The repository does not bundle dataset images, weights or a prepared dataset. Th
 ## Dataset attribution
 
 Animals-10 dataset by Alessio Corrado on [Kaggle](https://www.kaggle.com/datasets/alessiocorrado99/animals10). All original dataset rights and usage terms remain with the dataset provider.
+
+## Author
+Mohamed Hassanien
